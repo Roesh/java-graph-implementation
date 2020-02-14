@@ -1,6 +1,6 @@
 # java-graph-implementation
 
-This reposiroty contains an implementation of an undirected graph using an adjacency matrix to store connections.
+This reposiroty contains an implementation of a directed graph using an adjacency matrix to store connections.
 
 The connections are stored in a 2D integer array. Node objects hold a single string as data and are stored in a separate nodes array. 
 
